@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<shrek_movies>
+    <movie>
+        <title>Shrek</title>
+        <year>2001</year>
+        <director>Andrew Adamson, Vicky Jenson</director>
+        <rating>7.8</rating>
+    </movie>
+    <movie>
+        <title>Shrek 2</title>
+        <year>2004</year>
+        <director>Andrew Adamson, Kelly Asbury, Conrad Vernon</director>
+        <rating>7.2</rating>
+    </movie>
+    <movie>
+        <title>Shrek the Third</title>
+        <year>2007</year>
+        <director>Chris Miller, Raman Hui</director>
+        <rating>6.1</rating>
+    </movie>
+    <movie>
+        <title>Shrek Forever After</title>
+        <year>22222</year>
+        <director>fsdffwef</director>
+        <rating>5.6</rating>
+    </movie>
+</shrek_movies>

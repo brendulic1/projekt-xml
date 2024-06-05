@@ -1,0 +1,14 @@
+[
+  {
+    "image_url": "shrek.png",
+    "alt_text": "First slide"
+  },
+  {
+    "image_url": "donkey.png",
+    "alt_text": "Second slide"
+  },
+  {
+    "image_url": "fiona.png",
+    "alt_text": "Third slide"
+  }
+]

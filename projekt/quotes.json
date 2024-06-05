@@ -1,0 +1,37 @@
+[
+    {
+      "character": "Shrek",
+      "release_date": "2001",
+      "scene": "Swamp",
+      "quote": "Ogres are like onions... we both have layers.",
+      "image_url": "shrek.png"
+    },
+    {
+      "character": "Donkey",
+      "release_date": "2001",
+      "scene": "Dragon's Keep",
+      "quote": "That'll do, Donkey. That'll do.",
+      "image_url": "donkey.png"
+    },
+    {
+      "character": "Princess Fiona",
+      "release_date": "2001",
+      "scene": "Castle",
+      "quote": "I wanted to show you before.",
+      "image_url": "fiona.png"
+    },
+    {
+      "character": "Shrek",
+      "release_date": "2004",
+      "scene": "Far Far Away",
+      "quote": "Change is good, Donkey.",
+      "image_url": "shrek.png"
+    },
+    {
+      "character": "Puss in Boots",
+      "release_date": "2004",
+      "scene": "Shrek's House",
+      "quote": "I have engaged in battle with many pussies, but never quite like this.",
+      "image_url": "puss.png"
+    }
+  ]
